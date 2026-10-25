@@ -1,1 +1,6 @@
 $ curl -s https://api.github.com/repos/ankita12365/mcino-Introduction-to-Git-and-GitHub/pulls/1
+{
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/pulls/pulls#get-a-pull-request",
+  "status": "404"
+}
