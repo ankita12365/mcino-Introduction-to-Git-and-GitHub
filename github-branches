@@ -1,6 +1,6 @@
 $ git branch -a -v
   bug-fix-revert      cb904dd Update bug-fix-revert PR output
   bug-fix-typo        cb904dd Update bug-fix-revert PR output
-* main                cb904dd Update bug-fix-revert PR output
+* main                3651670 Fix Task 8 PR details
   remotes/origin/HEAD -> origin/main
-  remotes/origin/main cb904dd Update bug-fix-revert PR output
+  remotes/origin/main 3651670 Fix Task 8 PR details
