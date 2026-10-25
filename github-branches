@@ -1,0 +1,4 @@
+$ git branch -a -v
+* main                ccfe78f Add bug-fix-revert output
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main ccfe78f Add bug-fix-revert output
