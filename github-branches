@@ -1,4 +1,6 @@
 $ git branch -a -v
-* main                ccfe78f Add bug-fix-revert output
+  bug-fix-revert      cb904dd Update bug-fix-revert PR output
+  bug-fix-typo        cb904dd Update bug-fix-revert PR output
+* main                cb904dd Update bug-fix-revert PR output
   remotes/origin/HEAD -> origin/main
-  remotes/origin/main ccfe78f Add bug-fix-revert output
+  remotes/origin/main cb904dd Update bug-fix-revert PR output
